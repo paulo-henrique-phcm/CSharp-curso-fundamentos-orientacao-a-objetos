@@ -1,0 +1,14 @@
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\bin\Debug\net8.0\Fundamentos de Orientação a Objetos.exe
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\bin\Debug\net8.0\Fundamentos de Orientação a Objetos.deps.json
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\bin\Debug\net8.0\Fundamentos de Orientação a Objetos.runtimeconfig.json
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\bin\Debug\net8.0\Fundamentos de Orientação a Objetos.dll
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\bin\Debug\net8.0\Fundamentos de Orientação a Objetos.pdb
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\Fundamentos de Orientação a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\Fundamentos de Orientação a Objetos.AssemblyInfoInputs.cache
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\Fundamentos de Orientação a Objetos.AssemblyInfo.cs
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\Fundamentos de Orientação a Objetos.csproj.CoreCompileInputs.cache
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\Fundamentos de Orientação a Objetos.dll
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\refint\Fundamentos de Orientação a Objetos.dll
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\Fundamentos de Orientação a Objetos.pdb
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\Fundamentos de Orientação a Objetos.genruntimeconfig.cache
+c:\Users\paulo\Documents\DEV\CSharp\Fundamentos de Orientação a Objetos\obj\Debug\net8.0\ref\Fundamentos de Orientação a Objetos.dll

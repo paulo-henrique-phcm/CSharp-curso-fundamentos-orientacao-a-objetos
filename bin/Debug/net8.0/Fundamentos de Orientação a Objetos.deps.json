@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fundamentos de Orientação a Objetos/1.0.0": {
+        "runtime": {
+          "Fundamentos de Orientação a Objetos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fundamentos de Orientação a Objetos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
